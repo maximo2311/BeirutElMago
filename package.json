@@ -1,7 +1,7 @@
 {
   "name": "beirut",
   "version": "0.1.0",
-  "homepage": "https://github.com/maximo2311/BeirutElMago",
+  "homepage": "https://maximo2311.github.io/BeirutElMago/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
