@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="footerContainer">
                 <div className="footerLogo center">
                     <a href='https://www.instagram.com/beirut.el.mago/?hl=es' target="_blank" >
-                        <img src="/imagenes/logo-f.png" />
+                        <img src="/BeirutElMago/imagenes/logo-f.png" />
                     </a>
                 </div>
                 <div className="contacto center">
@@ -15,12 +15,12 @@ const Footer = () => {
                     <div className="imgs center">
                         <div className="containerRedes">
                             <a href='https://www.instagram.com/beirut.el.mago/?hl=es' target="_blank">
-                            <img src="/imagenes/ig.png" />
+                            <img src="/BeirutElMago/imagenes/ig.png" />
                             </a>
                         </div>
                         <div className="containerRedes">
                             <a href='https://wa.me/+584246632391' target="_blank" >
-                            <img src="/imagenes/ws.png" />
+                            <img src="/BeirutElMago/imagenes/ws.png" />
                             </a>
                         </div>
                     </div>

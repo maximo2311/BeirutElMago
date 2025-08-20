@@ -6,7 +6,7 @@ const BodyHome = () => {
         <main className="center">
             <div className="hero center">
                 <div className="imgPresentacion">
-                    <img src="/imagenes/1mago.png" />
+                    <img src="/BeirutElMago/imagenes/1mago.png" />
                 </div>
                 <div className="pContainerHero">
                     <p>	Cuando lo imposible se vuelve realidad ante tus ojos, cuando la magia no es solo un truco, sino una invitación a soñar, sabes que estás en presencia de <strong className="beirutLink">BEIRUT</strong>, el mago que transforma lo cotidiano en asombro. No importa quién seas ni de dónde vengas, su misión es simple: sorprenderte, desafiar tu imaginación y hacer que veas lo nunca antes visto.</p>
@@ -17,7 +17,7 @@ const BodyHome = () => {
                 <p className="pEncuentraBeirut">encuentra a <strong className="beirutLink">BEIRUT</strong></p>
                 <div className="containerImgPBerut">
                     <div className="containerImgEnc">
-                        <img src="/imagenes/6.jfif" />
+                        <img src="/BeirutElMago/imagenes/6.jfif" />
                     </div>
                     <p className="PcontainerEnc">
                         Si deseas encontrar magia <br/>

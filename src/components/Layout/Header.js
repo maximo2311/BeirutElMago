@@ -17,7 +17,7 @@ const Header = () => {
         <header className="center">
             <div className="container-del-Header">
                 <div className='logo-h'>
-                    <img src="/imagenes/logo-f.png" />
+                    <img src="/BeirutElMago/imagenes/logo-f.png" />
                 </div>
                 <div className="container-Nav">
                     <h1 className="titulo">EL MAGO <strong>BEIRUT</strong></h1>

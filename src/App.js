@@ -11,7 +11,10 @@ import About from './components/Body/About/BodyAbout';
       <Route path='/services' element={<BodyServices />} />
       <Route path='/about' element={<About />} />
     </Route>
-  ))
+  ),
+{
+  basename: '/BeirutElMago',
+})
 
 function App() {
   return (
