@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/maximo2311/BeirutElMago/static/css/main.e16b7d74.css",
+    "main.js": "/maximo2311/BeirutElMago/static/js/main.135e1d8d.js",
+    "static/js/453.967fac11.chunk.js": "/maximo2311/BeirutElMago/static/js/453.967fac11.chunk.js",
+    "static/media/fondo-h.png": "/maximo2311/BeirutElMago/static/media/fondo-h.8397526c6b4df016fe9d.png",
+    "static/media/fondo-f.png": "/maximo2311/BeirutElMago/static/media/fondo-f.fdcf16195446f89d7c94.png",
+    "static/media/ALGERIA.TTF": "/maximo2311/BeirutElMago/static/media/ALGERIA.74c33502507724b88399.TTF",
+    "index.html": "/maximo2311/BeirutElMago/index.html",
+    "main.e16b7d74.css.map": "/maximo2311/BeirutElMago/static/css/main.e16b7d74.css.map",
+    "main.135e1d8d.js.map": "/maximo2311/BeirutElMago/static/js/main.135e1d8d.js.map",
+    "453.967fac11.chunk.js.map": "/maximo2311/BeirutElMago/static/js/453.967fac11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16b7d74.css",
+    "static/js/main.135e1d8d.js"
+  ]
+}
