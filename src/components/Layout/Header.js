@@ -2,7 +2,7 @@ import { Nav } from "./Header-Nav/Nav"
 import { useState } from "react"
 import './HeaderModuleStyle.css'
 
-//<div></div>
+
 const Header = () => {
 
 
@@ -17,7 +17,7 @@ const Header = () => {
         <header className="center">
             <div className="container-del-Header">
                 <div className='logo-h'>
-                    <img src="/BeirutElMago/imagenes/logo-f.png" />
+                    <img src="/BeirutElMago/imagenes/logo-f.png" alt="Imagen del Mago Beirut" />
                 </div>
                 <div className="container-Nav">
                     <h1 className="titulo">EL MAGO <strong>BEIRUT</strong></h1>

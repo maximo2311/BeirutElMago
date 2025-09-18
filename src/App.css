@@ -21,3 +21,8 @@ img {
     object-fit: contain;
     transition: transform 0.3s ease-in-out
 }
+@media only screen and (min-width: 1000px) {
+    body {
+        background: linear-gradient(to bottom, black 18%, #9961C5 40%, #FFC366 80%);
+    }
+}

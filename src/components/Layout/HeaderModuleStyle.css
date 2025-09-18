@@ -172,9 +172,9 @@ button {
         font-size: 2rem;
     }
     .cerradoMenu{
-        /*right: -20rem;*/
-        transform: translateX(20rem);
-        /*transform: translateX(20rem);*/
+        overflow: hidden;
+        height: 0;
+        opacity: 0;
     }
 }
 /*AHORA UNAS PEQUEÑAS ADAPTACIONES PARA HACER EL NAV MAS ADAPTABLE*/
